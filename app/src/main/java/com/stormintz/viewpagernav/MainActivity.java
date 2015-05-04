@@ -7,6 +7,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.stormintz.viewpagernav.fragment.FragmentMainActivity;
+import com.stormintz.viewpagernav.tab.TabMainActivity;
 import com.stormintz.viewpagernav.view.ViewMainActivity;
 
 

@@ -17,6 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.stormintz.viewpagernav.view.ViewMainActivity"/>
+        <activity android:name="com.stormintz.viewpagernav.tab.TabMainActivity"/>
+        <activity android:name="com.stormintz.viewpagernav.fragment.FragmentMainActivity"/>
     </application>
 
 </manifest>
